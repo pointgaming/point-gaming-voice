@@ -2,7 +2,7 @@
   "name": "point-gaming-voice",
   "version": "0.0.1",
   "dependencies": {
-    "redis": "0.8.x",
+    "mongojs": "0.7.x",
     "underscore": "1.5.x"
   },
   "engines": {
